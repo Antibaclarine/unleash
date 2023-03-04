@@ -1,0 +1,122 @@
+.unleash{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-size: 300%;
+}
+#get{
+    
+   background-color: black;
+   color: white;
+   width: 10%;
+   padding: 12px; 
+   border: none;
+   border-radius:  40px;
+   margin-left: 30%;
+}
+.background{
+    background-image: url(/image/photo-1542772144-515ddfae17e9.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 50%;
+    height: 450px;
+    border-radius: 10%;
+    float: right;
+    transform: translateY(-480px);
+}
+#indulge{
+    transform: translateY(300px);
+margin-left: 5%;
+
+}
+#check{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+#show{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 3%;
+    color: black;
+}
+.we{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-size: 80%;
+
+    
+
+}
+.how{
+    float: 10%;
+}
+.how ul li{
+    padding: 0px 6px 8px;
+    justify-content: space-between;
+    display: inline-block;
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-size: 70%;
+
+}
+.design{
+    float: right;
+    transform: translateY(-470px);
+    margin-left: 35%;
+    background-color: #FFC565;
+    border-radius: 10px;
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-size: 80%;
+width: 20%;
+}
+.girl{
+    width: 10%;
+    border-radius: 50%;
+}
+.smile{
+    width: 5%;
+    border-radius: 50%;
+}
+.lady{
+    width: 7%;
+    border-radius: 50%;
+}
+.rating{
+    
+    margin-left: 45%;
+    position: relative;
+    top: -135px;
+    background-color: #E28AFF;
+    color: white;
+    width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-size: 80%;
+width: 20%;
+
+}
+
